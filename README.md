@@ -4,10 +4,10 @@
 
 ## **This repository contains information for Stats 220**
 
-### In this repository you can find information about:
+### In this repository you can find:
 
 1. The Stats 220 course
-2. Works produced relating to stats 220 and its assignments
+2. Works produced relating to stats 220 and its' assignments
 3. Personal Projects done using knowledge gained from this course
 
 ### In this course I aim to:
