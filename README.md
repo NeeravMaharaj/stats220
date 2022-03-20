@@ -18,3 +18,5 @@
 
 # *The link to my stats 220 site is*:
 ## https://neeravmaharaj.github.io/stats220/
+
+![Welcome Image](https://user-images.githubusercontent.com/100814118/159144940-b052a846-1dd5-4b50-8602-c15c48a7d2ce.png)
